@@ -1,7 +1,7 @@
 # CS771-Assignments
 
 ### Assignment 1
-#### PUF Analyzer
+#### XOR-PUF Response Predictor
 - Developed a novel to enhance the understanding of XOR-PUF (Physically Unclonable Function) systems.
 - Formed this problem as a linear regression challenge, utilizing mathematical derivations and machine learning techniques to predict individual PUF outputs within the XOR-PUF architecture.
 - Implemented linear rregression algorithm from scratch for better understanding of algorithm. 
